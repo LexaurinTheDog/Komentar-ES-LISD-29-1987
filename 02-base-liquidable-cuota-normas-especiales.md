@@ -122,7 +122,7 @@ En las donaciones, el **apartado 5** dispone que, a falta de regulación autonó
 >
 > | Base liquidable - Hasta euros | Cuota íntegra – Euros | Resto base liquidable – Hasta euros | Tipo aplicable – Porcentaje |
 > | --- | --- | --- | --- |
-> | 0,00 |  | 7.993,46 | 7,65 |
+> | 0,00 | | 7.993,46 | 7,65 |
 > | 7.993,46 | 611,50 | 7.987,45 | 8,50 |
 > | 15.980,91 | 1.290,43 | 7.987,45 | 9,35 |
 > | 23.968,36 | 2.037,26 | 7.987,45 | 10,20 |
@@ -173,7 +173,7 @@ En las donaciones, el **apartado 5** dispone que, a falta de regulación autonó
 
 El artículo 21 regula la **tarifa**, cuya aplicación a la base liquidable da la cuota íntegra. El **apartado 1** remite a la escala que haya aprobado la Comunidad Autónoma conforme a la Ley 21/2001. El **apartado 2** contiene la escala estatal, aplicable cuando la Comunidad no la haya aprobado, no haya asumido competencias normativas en el impuesto o su normativa no resulte aplicable a los sujetos pasivos.
 
-La escala estatal es progresiva por tramos, con un tipo marginal que va del 7,65 al 34 por 100. Se estructura en cuatro columnas: base liquidable hasta un importe, cuota íntegra correspondiente a ese importe, resto de base liquidable hasta el siguiente tramo y tipo aplicable a ese resto. El cálculo consiste en tomar la cuota de la fila cuya base sea inmediatamente inferior a la base liquidable y añadir el resultado de aplicar el tipo de esa fila al exceso. La fuente ofrece la tabla celda a celda; en la reproducción en forma de tabla, la primera fila carece de cifra en la columna de cuota íntegra porque la fuente no la contiene. Las cuantías están expresadas en euros tras la conversión registrada por la nota de la fuente (Resolución de 27 de abril de 2001).
+La escala estatal es progresiva por tramos, con un tipo marginal que va del 7,65 al 34 por 100. Se estructura en cuatro columnas: base liquidable hasta un importe, cuota íntegra correspondiente a ese importe, resto de base liquidable hasta el siguiente tramo y tipo aplicable a ese resto. El cálculo consiste en tomar la cuota de la fila cuya base sea inmediatamente inferior a la base liquidable y añadir el resultado de aplicar el tipo de esa fila al exceso. En la primera fila de la tabla falta la cifra de la columna de cuota íntegra, porque la fuente deja vacía esa celda (lógicamente, la cuota correspondiente a una base de 0,00 euros es nula). Las cuantías están expresadas en euros tras la conversión registrada por la nota de la fuente (Resolución de 27 de abril de 2001).
 
 El **apartado 3** impone la tarifa estatal en tres supuestos: obligación real de contribuir; donación de inmuebles situados en el extranjero en régimen de obligación personal; y obligación personal cuando el sujeto pasivo o el causante no sean residentes. En la práctica, este apartado debe leerse con la disposición adicional segunda, que reconoce a los contribuyentes, en esos casos, el derecho a aplicar la normativa de una Comunidad Autónoma según los puntos de conexión que establece.
 
@@ -189,9 +189,9 @@ La tarifa no determina por sí sola la carga final: la cuota íntegra se multipl
 >
 > 2. Si la Comunidad Autónoma no hubiese aprobado el coeficiente o la cuantía de los tramos a que se refiere el apartado anterior o si aquélla no hubiese asumido competencias normativas en materia de Impuesto sobre Sucesiones y Donaciones, o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, se aplicará el que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
 >
-> | Patrimonio preexistente – Euros | Grupos del artículo 20 |  |  |
+> | Patrimonio preexistente – Euros | Grupos del artículo 20 | | |
 > | --- | --- | --- | --- |
-> |  | I y II | III | IV |
+> | | I y II | III | IV |
 > | De 0 a 402.678,11............................................. | 1,0000 | 1,5882 | 2,0000 |
 > | De más de 402.678,11 a 2.007.380,43........ | 1,0500 | 1,6676 | 2,1000 |
 > | De más de 2.007.380,43 a 4.020.770,98..... | 1,1000 | 1,7471 | 2,2000 |
